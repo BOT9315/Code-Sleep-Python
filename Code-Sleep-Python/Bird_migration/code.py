@@ -20,7 +20,6 @@ mean_speeds = grouped_birds.speed_2d.mean()
 
 # Find the mean `altitude` for each bird.
 # Assign this to `mean_altitudes`.
-
 mean_altitudes = grouped_birds.altitude.mean()
 
 
